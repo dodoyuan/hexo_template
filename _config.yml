@@ -81,7 +81,7 @@ deploy:
   type:
 
 server:
-  port: 9000
+  port: 8080
   compress: true
   header: true
 
